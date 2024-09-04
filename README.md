@@ -1,5 +1,5 @@
 Job portal made using java spring boot and angular / react (working version)
-CONTRIBUTORS TO THE PROJECT: Kanishka Malik & Aishwarya S Bharadwaj
+CONTRIBUTORS TO THE PROJECT: Kanishka Malik (IN010K52203) & Aishwarya S Bharadwaj (IN010K52214)
 
 to run backend:
 open backend folder in IntelliJ and run the JobPortalApplication
