@@ -19,7 +19,7 @@ In the job portal users can:
 - sign in / sign up
 - admins can modify jobs, add jobs, delete jobs
 - users can view job dashboard
-![image](https://github.com/user-attachments/assets/3aba25bd-e0fd-48a0-95c3-b6df451b9630)
-![image](https://github.com/user-attachments/assets/154808b1-0cca-44fa-83f8-87083837f92c)
-![image](https://github.com/user-attachments/assets/644a7c80-36c3-432c-81b9-4bc1ce4bb797)
-![image](https://github.com/user-attachments/assets/1f8abe2f-263e-4cd6-8584-585bda516be7)
+![image](https://github.com/user-attachments/assets/7f7b3b90-58fd-4ed4-af6f-4e753a4e3680)
+![image](https://github.com/user-attachments/assets/4d9afbc4-c5d3-4d4b-bff0-883cf8688839)
+![image](https://github.com/user-attachments/assets/8c7d9990-e67b-40aa-aa57-404ec289841b)
+![image](https://github.com/user-attachments/assets/6e22e2f0-1044-44d1-b96b-9f86e5875b81)
