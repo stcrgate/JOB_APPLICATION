@@ -1,0 +1,11 @@
+JOB HIRING APPLICATION MADE USING JAVA SPRING BOOT & ANGULAR, REACT
+DATABASE - MongoDB
+
+MADE BY Kanishka Malik & Aishwarya S Bharadwaj
+
+
+
+Backend -- open with Intellij IDEA & run application
+Frontend --
+	- react: npm build, npm start
+	- angular: npm build, ng serve
